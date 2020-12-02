@@ -1,0 +1,22 @@
+{
+  "name": "heartless",
+  "version": "1.0.0",
+  "description": "javascript utils function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanmad27/heartless.git"
+  },
+  "keywords": [
+    "heartless"
+  ],
+  "author": "yanmad27",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yanmad27/heartless/issues"
+  },
+  "homepage": "https://github.com/yanmad27/heartless#readme"
+}
