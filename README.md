@@ -1,2 +1,2 @@
 # heartless
-javascript utils function
+javascript utils function from a heartless, lovesick man
