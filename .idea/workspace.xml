@@ -23,10 +23,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="98217c77-cef6-4fb7-836c-91372fb9189b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ReactComponent/HOCDrag/DragItem.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReactComponent/HOCDrag/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +53,13 @@
     <property name="javascript.nodejs.core.library.typings.version" value="10.17.48" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../test-heartless" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -67,7 +73,7 @@
       <workItem from="1608085867924" duration="1112000" />
       <workItem from="1608091859699" duration="1211000" />
       <workItem from="1608170844666" duration="89000" />
-      <workItem from="1619149897702" duration="2918000" />
+      <workItem from="1619149897702" duration="4586000" />
     </task>
     <servers />
   </component>
