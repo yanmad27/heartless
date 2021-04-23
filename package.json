@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/yanmad27/heartless/issues"
   },
-  "homepage": "https://github.com/yanmad27/heartless#readme"
+  "homepage": "https://github.com/yanmad27/heartless#readme",
+  "dependencies": {
+    "react-dnd": "^14.0.2"
+  }
 }
