@@ -1,3 +1,6 @@
-exports.printMsg = function() {
-  console.log("This is a message from the demo package");
+const test = () => {
+  console.log("this is a test");
+}
+module.exports = {
+  test
 }
